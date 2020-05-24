@@ -1,6 +1,10 @@
 #Starter web project
 
-## introduction
+##introduction
 
-## Something
+##purpose
+
+##deploy
+
+##contribution
 
